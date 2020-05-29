@@ -1,0 +1,3 @@
+[submodule "docker-demo-service"]
+	path = docker-demo-service
+	url = https://github.com/ankitpec72/docker-demo-service.git
